@@ -127,7 +127,35 @@ Customers can leave a review and rating for each game they purchase, helping oth
 Batch operations allow for inserting or deleting multiple records (games, orders, etc.) at once, improving efficiency in data management.
 
 ## Screenshots
-Screenshots of the application will be added here soon.
+
+### Register
+![Register](screenshots/register.png)
+
+### Login
+![Login](screenshots/login.png)
+
+### Admin Dashboard
+![Admin Dashboard 1](screenshots/admin_dashboard_1.png)
+![Admin Dashboard 2](screenshots/admin_dashboard_2.png)
+![Admin Dashboard 3](screenshots/admin_dashboard_3.png)
+
+### Main Menu
+![Main Menu](screenshots/main_menu.png)
+
+### Game Menu
+![Game Menu](screenshots/game_menu.png)
+
+### Wishlist
+![Wishlist](screenshots/wishlist.png)
+
+### Cart
+![Cart](screenshots/cart.png)
+
+### Library Games
+![Library Games](screenshots/library_games.png)
+
+### Developer Dashboard
+![Developer Dashboard](screenshots/dev_dashboard.png)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
