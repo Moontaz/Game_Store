@@ -1,6 +1,6 @@
 # Game Store Platform
 
-This project is a dynamic game store platform, similar to Steam, developed using PHP, MongoDB, Bootstrap, and MySQL. It features user roles (admin, developer, and customer), CRUD operations for all tables, dynamic form elements, multi-insert, multi-delete functionalities, a shopping cart, file upload/download, and a bookmark feature.
+This project was created to complete the final assignment of 4th semester in the web programming course. This is a dynamic game store platform, similar to Steam, developed using PHP, MongoDB, Bootstrap, and MySQL. It features user roles (admin, developer, and customer), CRUD operations for all tables, dynamic form elements, multi-insert, multi-delete functionalities, a shopping cart, file upload/download, and a bookmark feature.
 
 ## Features
 - **User Roles:** Admin, Developer, and Customer with respective access controls.
